@@ -7,5 +7,6 @@ Video slider and main hero section slider.
 <a href="https://i.imgur.com/risXONO.gifv">
 <img src="https://i.imgur.com/risXONO.gifv" title="source: imgur.com" width="100%"/>
 </a>
-<img src="https://i.imgur.com/risXONO.gifv" title="source: imgur.com" width="100%"/>
-<iframe src="https://i.imgur.com/risXONO.gifv"></iframe>
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="risXONO"><a href="//imgur.com/risXONO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
